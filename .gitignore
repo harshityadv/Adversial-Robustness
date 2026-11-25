@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded datasets and generated experiment artifacts
+/data/
+/outputs/*
+!/outputs/.gitkeep
+*.pt
+*.pth
+*.ckpt
+
+# Local environments and secrets
+.venv/
+venv/
+.env

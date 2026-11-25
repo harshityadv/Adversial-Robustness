@@ -1,0 +1,2 @@
+# Optional: install only when running the notebook's CROWN verification path.
+auto-LiRPA
